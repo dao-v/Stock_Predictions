@@ -1,18 +1,27 @@
 # Stock_Predictions
-Using machine learning, I successfully created machine learning models that were able to predict the movement/direction of stock prices under normal market conditions. However, the models under the current market economy that is being affected by the pandemic will not be able to predict with sufficient success. Until the market improves, this project has been stopped due to there being no relevant historical financial data to aid in the training of the models.
+Using machine learning, I successfully created machine learning models that were able to predict the movement/direction of stock
+prices under normal market conditions. However, the models under the current market economy that is being affected by the 
+pandemic will not be able to predict with sufficient success. Until the market improves, this project has been stopped due to 
+there being no relevant historical financial data to aid in the training of the models.
 
-This project uses Random Forest, AdaBoost, and Gradient Boosting--the results suggest that Random Forest is the best option out of the three machine learning models.
+This project uses Random Forest, AdaBoost, and Gradient Boosting--the results suggest that Random Forest is the best option out 
+of the three machine learning models.
 
-(Excuse the low-level coding as this is my first project and it became larger than I had expected. Modular programming was also not implemented due to free API restrictions, which made it impossible to run the first three scripts to cover all stocks.)
+(Excuse the low-level coding as this is my first project and it became larger than I had expected. Modular programming was also 
+not implemented due to free API keys and web parsing restrictions, which made it impossible to run the first three scripts to
+cover all stocks.)
 
-If wanting to only examine specific stocks, simply examine the format of the first few CSV files created and beginning with the filename "merged_NYSE_AMEX". Then create your own custom CSV file (or create a new Pandas DataFrame) using the same format and replace the scripting code in all scripts to only load your custom file.
+If wanting to only examine specific stocks, simply examine the format of the first few CSV files created and beginning with the 
+filename "merged_NYSE_AMEX". Then create your own custom CSV file (or create a new Pandas DataFrame) using the same format and 
+replace the scripting code in all scripts to only load your custom file.
 
-The PDF PowerPoint presentation outlines the general steps and current outcomes of the project 
+The PDF PowerPoint presentation outlines the general steps and current outcomes of the project. 
     ("Stock Predictions - PDF Predictions")
 There is another PDF that goes more in-depth about the ideas and reasons for the project, as well as some data analysis.
     ("Stock Predictions - Thesis")
 
-Do note that this project still requires a lot of work and many improvements can be made. However, due to limited time, I am currently unable to implement any further changes.
+Do note that this project still requires a lot of work and many improvements can be made. However, due to limited time, I am 
+currently unable to implement any further changes.
 
 
 (This project was originally completed as a student capstone project for SpringBoard, which is reflected in the project thesis.)
