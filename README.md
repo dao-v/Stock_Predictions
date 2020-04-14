@@ -23,6 +23,8 @@ There is another PDF that goes more in-depth about the ideas and reasons for the
 Do note that this project still requires a lot of work and many improvements can be made. However, due to limited time, I am 
 currently unable to implement any further changes.
 
+Storage requirement of this project requires more than 15+ GB of free space.
+
 
 (This project was originally completed as a student capstone project for SpringBoard, which is reflected in the project thesis.)
 
