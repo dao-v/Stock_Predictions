@@ -7,10 +7,12 @@ This project uses Random Forest, AdaBoost, and Gradient Boosting--the results su
 
 If wanting to only examine specific stocks, simply examine the format of the first few CSV files created and beginning with the filename "merged_NYSE_AMEX". Then create your own custom CSV file (or create a new Pandas DataFrame) using the same format and replace the scripting code in all scripts to only load your custom file.
 
-The PDF PowerPoint presentation outlines the general steps and current outcomes of the project.
+The PDF PowerPoint presentation outlines the general steps and current outcomes of the project 
+    ("Stock Predictions - PDF Predictions")
 There is another PDF that goes more in-depth about the ideas and reasons for the project, as well as some data analysis.
+    ("Stock Predictions - Thesis")
 
-Do note that this project still requires a lot of work and many improvements can be made. However, due to limited time, I am currently unable to implement changes.
+Do note that this project still requires a lot of work and many improvements can be made. However, due to limited time, I am currently unable to implement any further changes.
 
 
 (This project was originally completed as a student capstone project for SpringBoard, which is reflected in the project thesis.)
